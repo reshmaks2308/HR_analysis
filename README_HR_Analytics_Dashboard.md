@@ -113,17 +113,13 @@ screenshots/
 └── insights-recommendations.png
 ```
 
-Then add them to this section:
 
-```markdown
-![HR Analytics Dashboard](screenshots/hr-dashboard.png)
+![HR Analytics Dashboard](IBM HR 1.png)
 
-![Why Employees Leave](screenshots/why-employees-leave.png)
+![Why Employees Leave](IBM HR 2.png)
 
-![Key Insights and Recommendations](screenshots/insights-recommendations.png)
-```
+![Key Insights and Recommendations](IBM HR 3.png)
 
----
 
 ## 📁 Project Files
 
