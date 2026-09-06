@@ -114,11 +114,11 @@ screenshots/
 ```
 
 
-![HR Analytics Dashboard](IBM HR 1.png)
+![HR Analytics Dashboard](IBM-HR-1.png)
 
-![Why Employees Leave](IBM HR 2.png)
+![Why Employees Leave](IBM-HR-2.png)
 
-![Key Insights and Recommendations](IBM HR 3.png)
+![Key Insights and Recommendations](IBM-HR-3.png)
 
 
 ## 📁 Project Files
